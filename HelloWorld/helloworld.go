@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	fmt.Println("Hello, World!")
+    fmt.Println("SQLite3 is working with CGO!")
 }
